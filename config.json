@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercync",
+        "uuid": 8733537,
+        "checksum": "fu23d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
